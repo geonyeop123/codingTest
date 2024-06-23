@@ -1,4 +1,4 @@
-package com.codingTest.level1.stringSplit;
+package com.codingTest.level1.exam01;
 
     /* 문자열 나누기
     문자열 s가 입력되었을 때 다음 규칙을 따라서 이 문자열을 여러 문자열로 분해하려고 합니다.
