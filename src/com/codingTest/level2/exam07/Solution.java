@@ -9,17 +9,15 @@ import java.util.Arrays;
 public class Solution {
 
     public int solution(int n) {
-        String binaryString = Integer.toBinaryString(n);
-        int length = binaryString.replaceAll("0", "").length();
+        int count = Integer.bitCount(n);
         while(true){
             n++;
-            binaryString = Integer.toBinaryString(n);
-            int newLength = binaryString.replaceAll("0", "").length();
-            if(newLength == length){
+            int newCount = Integer.bitCount(n);
+
+            if(count == newCount){
                 break;
             }
         }
-
         return n;
     }
 
