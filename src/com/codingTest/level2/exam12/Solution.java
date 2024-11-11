@@ -1,15 +1,12 @@
-package com.codingTest.level2.exam12.exam11;
+package com.codingTest.level2.exam12;
 
 /*
 * 구명보트
 * */
 
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
-import java.util.stream.IntStream;
 
 public class Solution {
 
