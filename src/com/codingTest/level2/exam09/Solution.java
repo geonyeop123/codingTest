@@ -1,7 +1,7 @@
 package com.codingTest.level2.exam09;
 
 /*
-* 피보나치 수
+* 카펫
 * */
 
 import java.util.ArrayList;
@@ -11,16 +11,19 @@ import java.util.List;
 public class Solution {
 
     public int[] solution(int brown, int yellow) {
+        // yellow = width - 2 * height * 2;
+        // min = 3 / yellow 1 = 3
+        // max = area / 3
         int[] answer = new int[2];
-        int total = brown + yellow;
-        for(int i = 3; i <= total; i++) {
-            for(int j = i; j < brown / 2; j++) {
-                int k = i * j;
-                if(k > total){
-                    break;
-                }else if(k == total){
-                    answer[0] = j;
-                    answer[1] = i;
+
+        int area = brown + yellow;
+        int min = 3;
+        int max = area / 3;
+
+        for(int width = min; width <= max; width++) {
+            for(int height = min; height <= width; height++) {
+                if(width * height == area && yellow == (width - 2) * (height - 2)){
+                    return new int[]{width, height};
                 }
             }
         }
