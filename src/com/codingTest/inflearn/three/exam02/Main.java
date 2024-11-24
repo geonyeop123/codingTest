@@ -41,7 +41,7 @@ public class Main {
         }
 
         for(char c : s2.toCharArray()) {
-            if(map.get(c) == null || map.get(c) == 0){
+            if(!map.containsKey(c) || map.get(c) == 0){
                 return "NO";
             }
             map.put(c, map.getOrDefault(c, 0) - 1);
