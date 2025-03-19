@@ -28,9 +28,9 @@ public class Solution {
             sb.deleteCharAt(0);
         }
 
-        if(!sb.isEmpty() && sb.charAt(sb.length()-1) == '.'){
-            sb.deleteCharAt(sb.length()-1);
-        }
+//        if(!sb.isEmpty() && sb.charAt(sb.length()-1) == '.'){
+//            sb.deleteCharAt(sb.length()-1);
+//        }
 
         // new_id가 빈 문자열이라면, new_id에 "a"를 대입합니다.
         int length = sb.length();
