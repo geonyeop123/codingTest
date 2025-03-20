@@ -1,4 +1,4 @@
-package com.codingTest.backjoon.bronze.exam05;
+package com.codingTest.backjoon.bronze;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import java.util.Arrays;
 *
 * */
 
-public class Main {
+public class B2_2798 {
     public static void main(String[] args)throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

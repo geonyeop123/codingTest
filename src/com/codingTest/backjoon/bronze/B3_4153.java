@@ -1,14 +1,9 @@
-package com.codingTest.backjoon.bronze.exam01;
+package com.codingTest.backjoon.bronze;
 
 import java.io.*;
 import java.util.Arrays;
 
-/*
-* 4153. 직각삼각형
-*
-* */
-
-public class Main {
+public class B3_4153 {
     public static void main(String[] args)throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

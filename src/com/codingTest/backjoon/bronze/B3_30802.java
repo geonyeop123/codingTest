@@ -1,4 +1,4 @@
-package com.codingTest.backjoon.bronze.exam02;
+package com.codingTest.backjoon.bronze;
 
 import java.io.*;
 
@@ -7,7 +7,7 @@ import java.io.*;
 *
 * */
 
-public class Main {
+public class B3_30802 {
     public static void main(String[] args)throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
