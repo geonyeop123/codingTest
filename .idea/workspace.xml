@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bb7d3dd-8804-404d-9114-fa5c63db1788" name="Changes" comment="3. 팩토리얼">
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B5_10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/inflearn/seven/exam03/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;geonyeop123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/geonyeop123/codingTest.git&quot;,
+    &quot;accountId&quot;: &quot;78145338-871e-4fa4-9d16-d6fb842ce51f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ukBZj4fXHbIyZgnYH3d8aNr38u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.B1_10989.executor": "Run",
+    "Application.B1_28702.executor": "Run",
+    "Application.B5_10871.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.S5_1436.executor": "Run",
+    "Application.S5_1676.executor": "Run",
+    "Application.com.codingTest.inflearn.five.exam08.Main.executor": "Run",
+    "Application.com.codingTest.inflearn.five.exam09.Main.executor": "Run",
+    "Application.com.codingTest.inflearn.five.exam10.Main.executor": "Run",
+    "Application.com.codingTest.inflearn.seven.exam03.Main.executor": "Run",
+    "Application.com.codingTest.inflearn.six.exam01.Main.executor": "Run",
+    "Application.com.codingTest.inflearn.six.exam02.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yeop/Documents/develop/practice/codingTest/src/com/codingTest/inflearn/seven",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/codingTest/inflearn/seven" />
+      <recent name="$PROJECT_DIR$/src/com/codingTest/inflearn/six" />
+      <recent name="$PROJECT_DIR$/src/com/codingTest/inflearn/five" />
+      <recent name="$PROJECT_DIR$/src/com/codingTest/inflearn/five/exam07" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.codingTest.inflearn.five.exam07" />
+      <recent name="com.codingTest" />
+      <recent name="com.codingTest.bronze" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingTest.inflearn.six.exam03" />
+      <recent name="com.codingTest.inflearn.six.exam02" />
+      <recent name="com.codingTest.inflearn.five.exam10" />
+      <recent name="com.codingTest.inflearn.five.exam09" />
+      <recent name="com.codingTest.inflearn.five.exam08" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.B5_10871">
+    <configuration name="B5_10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.backjoon.bronze.B5_10871" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingTest.backjoon.bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.six.exam03.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingTest.inflearn.six.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.codingTest.inflearn.seven.exam03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.seven.exam03.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingTest.inflearn.seven.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.codingTest.inflearn.six.exam01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.six.exam01.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingTest.inflearn.six.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.codingTest.inflearn.six.exam02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.six.exam02.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingTest.inflearn.six.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.B5_10871" />
+        <item itemvalue="Application.com.codingTest.inflearn.seven.exam03.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.codingTest.inflearn.six.exam02.Main" />
+        <item itemvalue="Application.com.codingTest.inflearn.six.exam01.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb7d3dd-8804-404d-9114-fa5c63db1788" name="Changes" comment="B1_2869 달팽이는 올라가고 싶다" />
+      <created>1742782749779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742782749779</updated>
+      <workItem from="1742782752040" duration="962000" />
+      <workItem from="1742859310857" duration="1065000" />
+      <workItem from="1742972786136" duration="449000" />
+      <workItem from="1743415649687" duration="2094000" />
+      <workItem from="1746816359970" duration="3286000" />
+      <workItem from="1746930641846" duration="4046000" />
+      <workItem from="1747150770802" duration="2520000" />
+      <workItem from="1747208622246" duration="658000" />
+      <workItem from="1747542911840" duration="564000" />
+      <workItem from="1752500188836" duration="1360000" />
+      <workItem from="1752580878530" duration="344000" />
+    </task>
+    <task id="LOCAL-00001" summary="B1_28702 FizzBuzz">
+      <option name="closed" value="true" />
+      <created>1742783646036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742783646036</updated>
+    </task>
+    <task id="LOCAL-00002" summary="B1_10989 수 정렬하기 3&#10; - 계수 정렬 사용">
+      <option name="closed" value="true" />
+      <created>1742860228627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742860228627</updated>
+    </task>
+    <task id="LOCAL-00003" summary="S5_1436 영화감독 숌">
+      <option name="closed" value="true" />
+      <created>1742973165282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742973165282</updated>
+    </task>
+    <task id="LOCAL-00004" summary="S5_1676 팩토리얼 0의 개수">
+      <option name="closed" value="true" />
+      <created>1743418141501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743418141501</updated>
+    </task>
+    <task id="LOCAL-00005" summary="7. 좌표 정렬">
+      <option name="closed" value="true" />
+      <created>1746932994817</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746932994817</updated>
+    </task>
+    <task id="LOCAL-00006" summary="8. 이분검색">
+      <option name="closed" value="true" />
+      <created>1746933002068</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746933002068</updated>
+    </task>
+    <task id="LOCAL-00007" summary="9. 뮤직비디오(결정알고리즘)">
+      <option name="closed" value="true" />
+      <created>1746933009111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746933009111</updated>
+    </task>
+    <task id="LOCAL-00008" summary="10. 마구간 정하기(결정알고리즘)">
+      <option name="closed" value="true" />
+      <created>1746935117150</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746935117150</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10. 마구간 정하기(결정알고리즘)">
+      <option name="closed" value="true" />
+      <created>1746935742435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746935742435</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1. 재귀 함수">
+      <option name="closed" value="true" />
+      <created>1747208647924</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747208647924</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2. 재귀 함수를 이용한 이진수 출력">
+      <option name="closed" value="true" />
+      <created>1747208884790</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747208884790</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2. 재귀 함수를 이용한 이진수 출력">
+      <option name="closed" value="true" />
+      <created>1747208924795</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747208924795</updated>
+    </task>
+    <task id="LOCAL-00013" summary="3. 팩토리얼">
+      <option name="closed" value="true" />
+      <created>1747543293048</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747543293048</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="B1_2869 달팽이는 올라가고 싶다" />
+    <MESSAGE value="B1_28702 FizzBuzz" />
+    <MESSAGE value="B1_10989 수 정렬하기 3&#10; - 계수 정렬 사용" />
+    <MESSAGE value="S5_1436 영화감독 숌" />
+    <MESSAGE value="S5_1676 팩토리얼 0의 개수" />
+    <MESSAGE value="7. 좌표 정렬" />
+    <MESSAGE value="8. 이분검색" />
+    <MESSAGE value="9. 뮤직비디오(결정알고리즘)" />
+    <MESSAGE value="10. 마구간 정하기(결정알고리즘)" />
+    <MESSAGE value="1. 재귀 함수" />
+    <MESSAGE value="2. 재귀 함수를 이용한 이진수 출력" />
+    <MESSAGE value="3. 팩토리얼" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. 팩토리얼" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codingTest/inflearn/five/exam09/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codingTest/inflearn/five/exam10/Main.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
