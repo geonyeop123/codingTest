@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bb7d3dd-8804-404d-9114-fa5c63db1788" name="Changes" comment="3. 팩토리얼">
-      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B5_10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codingTest/inflearn/seven/exam03/Main.java" afterDir="false" />
+    <list default="true" id="9bb7d3dd-8804-404d-9114-fa5c63db1788" name="Changes" comment="B5_10871 X보다 작은 수">
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B1_2309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B2_2587.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B3_2576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B4_2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B4_2490.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B4_2752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B5_1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B5_10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B5_10869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B5_2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingTest/backjoon/bronze/B5_9498.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +64,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.B1_10989.executor": "Run",
+    "Application.B1_2309.executor": "Run",
     "Application.B1_28702.executor": "Run",
+    "Application.B2_2587.executor": "Run",
+    "Application.B3_2576.executor": "Run",
+    "Application.B4_2480.executor": "Run",
+    "Application.B4_2490.executor": "Run",
+    "Application.B4_2752.executor": "Run",
+    "Application.B5_1000.executor": "Run",
+    "Application.B5_10171.executor": "Run",
     "Application.B5_10871.executor": "Run",
+    "Application.B5_2753.executor": "Run",
+    "Application.B5_9498.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.S5_1436.executor": "Run",
     "Application.S5_1676.executor": "Run",
@@ -77,7 +97,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,22 +108,25 @@
       <recent name="$PROJECT_DIR$/src/com/codingTest/inflearn/five" />
       <recent name="$PROJECT_DIR$/src/com/codingTest/inflearn/five/exam07" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.codingTest.inflearn.five.exam07" />
       <recent name="com.codingTest" />
       <recent name="com.codingTest.bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingTest.backjoon.bronze" />
       <recent name="com.codingTest.inflearn.six.exam03" />
       <recent name="com.codingTest.inflearn.six.exam02" />
       <recent name="com.codingTest.inflearn.five.exam10" />
       <recent name="com.codingTest.inflearn.five.exam09" />
-      <recent name="com.codingTest.inflearn.five.exam08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B5_10871">
-    <configuration name="B5_10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingTest.backjoon.bronze.B5_10871" />
+  <component name="RunManager" selected="Application.B1_2309">
+    <configuration name="B1_2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.backjoon.bronze.B1_2309" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.six.exam03.Main" />
+    <configuration name="B2_2587" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.backjoon.bronze.B2_2587" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingTest.inflearn.six.exam03.*" />
+          <option name="PATTERN" value="com.codingTest.backjoon.bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.codingTest.inflearn.seven.exam03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.seven.exam03.Main" />
+    <configuration name="B3_2576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.backjoon.bronze.B3_2576" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingTest.inflearn.seven.exam03.*" />
+          <option name="PATTERN" value="com.codingTest.backjoon.bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.codingTest.inflearn.six.exam01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.six.exam01.Main" />
+    <configuration name="B4_2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.backjoon.bronze.B4_2480" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingTest.inflearn.six.exam01.*" />
+          <option name="PATTERN" value="com.codingTest.backjoon.bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.codingTest.inflearn.six.exam02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingTest.inflearn.six.exam02.Main" />
+    <configuration name="B4_2490" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingTest.backjoon.bronze.B4_2490" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingTest.inflearn.six.exam02.*" />
+          <option name="PATTERN" value="com.codingTest.backjoon.bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B5_10871" />
-        <item itemvalue="Application.com.codingTest.inflearn.seven.exam03.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.codingTest.inflearn.six.exam02.Main" />
-        <item itemvalue="Application.com.codingTest.inflearn.six.exam01.Main" />
+        <item itemvalue="Application.B1_2309" />
+        <item itemvalue="Application.B2_2587" />
+        <item itemvalue="Application.B3_2576" />
+        <item itemvalue="Application.B4_2490" />
+        <item itemvalue="Application.B4_2480" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +226,8 @@
       <workItem from="1747208622246" duration="658000" />
       <workItem from="1747542911840" duration="564000" />
       <workItem from="1752500188836" duration="1360000" />
-      <workItem from="1752580878530" duration="344000" />
+      <workItem from="1752580878530" duration="7273000" />
+      <workItem from="1752589097384" duration="3621000" />
     </task>
     <task id="LOCAL-00001" summary="B1_28702 FizzBuzz">
       <option name="closed" value="true" />
@@ -309,7 +333,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747543293048</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="B5_10871 X보다 작은 수">
+      <option name="closed" value="true" />
+      <created>1752581531121</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1752581531121</updated>
+    </task>
+    <task id="LOCAL-00015" summary="B5_10871 X보다 작은 수">
+      <option name="closed" value="true" />
+      <created>1752581577415</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1752581577415</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +379,8 @@
     <MESSAGE value="1. 재귀 함수" />
     <MESSAGE value="2. 재귀 함수를 이용한 이진수 출력" />
     <MESSAGE value="3. 팩토리얼" />
-    <option name="LAST_COMMIT_MESSAGE" value="3. 팩토리얼" />
+    <MESSAGE value="B5_10871 X보다 작은 수" />
+    <option name="LAST_COMMIT_MESSAGE" value="B5_10871 X보다 작은 수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
